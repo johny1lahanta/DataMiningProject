@@ -1,1 +1,1 @@
-The evidence of Feasibility Test with Preliminary Results. Includes .ipynb file where both base and target models were trained and evaluted. Includes results figures in output cells. 
+The code for the Data Mining course project. Includes .ipynb files where 7 different models (AlexNet, ResNet, DenseNet, ViT, MobileNet, InceptionNet, EfficientNet) were trained and evaluted. Includes results figures in output cells. 
